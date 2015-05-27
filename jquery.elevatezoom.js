@@ -1445,12 +1445,8 @@ if (typeof Object.create !== 'function') {
                         self.zoomTintImage.css("height", self.constheight);
                         self.zoomTintImage.css("width", self.options.constrainSize);
                     }
-
                 }
-
-
             }
-
         },
         doneCallback: function() {
 
