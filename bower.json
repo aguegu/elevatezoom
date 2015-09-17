@@ -22,7 +22,9 @@
     "node_modules",
     "bower_components",
     "test",
-    "tests"
+    "tests",
+    "images",
+    "*.html"
   ],
   "dependencies": {
     "font-awesome": "fontawesome#~4.4.0",
