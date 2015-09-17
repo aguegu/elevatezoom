@@ -1098,7 +1098,7 @@
           .css('line-height', self.nzHeight + 'px')
           .css('text-align', 'center');
 
-        self.spinner.html('<i class="fa fa-refresh fa-spin fa-fw fa-3x">');
+        self.spinner.html(self.options.loadingIcon);
         // style="position: absolute; left: 50%; top: 50%;"
 
         self.$elem.after(self.spinner);

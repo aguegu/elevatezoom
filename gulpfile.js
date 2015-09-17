@@ -4,7 +4,7 @@ var $ = require('gulp-load-plugins')();
 
 // Lint JavaScript
 gulp.task('jshint', function () {
-  return gulp.src('jquery.elevatezoom.js')    
+  return gulp.src('src/*.js')    
     .pipe($.jshint())
     .pipe($.jshint.reporter('jshint-stylish'))   
 });
