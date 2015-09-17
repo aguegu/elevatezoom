@@ -1,0 +1,12 @@
+*.DS_Store
+.idea
+/nbproject/private/
+/nbproject/
+/node_modules/
+TODO
+*.zip
+test.html
+*.log
+
+bower_components/
+dist/

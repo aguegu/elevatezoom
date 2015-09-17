@@ -1,0 +1,30 @@
+{
+  "name": "elevatezoom",
+  "version": "1.0.0",
+  "description": "A jQuery image zoom plugin",
+  "main": "demo.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aguegu/elevatezoom.git"
+  },
+  "keywords": [
+    "zoom",
+    "image",
+    "gallery"
+  ],
+  "author": "Andrew Eades",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aguegu/elevatezoom/issues"
+  },
+  "homepage": "https://github.com/aguegu/elevatezoom#readme",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-jshint": "^1.11.2",
+    "gulp-load-plugins": "^0.10.0",
+    "jshint-stylish": "^2.0.1"
+  }
+}

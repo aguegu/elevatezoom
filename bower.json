@@ -1,0 +1,31 @@
+{
+  "name": "elevatezoom",
+  "version": "2.2.3",
+  "homepage": "https://github.com/aguegu/elevatezoom",
+  "authors": [
+    "Andrew Eades",
+    "Weihong Guan <weihong.guan@gmail.com>"
+  ],
+  "description": "A jQuery image zoom plugin",
+  "main": "jquery.elevatezoom.js",
+  "moduleType": [
+    "amd"
+  ],
+  "keywords": [
+    "zoom",
+    "image",
+    "gallery"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "font-awesome": "fontawesome#~4.4.0",
+    "jquery": "~2.1.4"
+  }
+}
